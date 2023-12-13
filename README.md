@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Niranjan Darshan</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **OSS Kubernetes**
+- 🔭 I’m currently working on Kubernetes
 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 I’m currently learning DataScience, DevOps and Cloud
+  
+- 👯 I’m looking to collaborate on DevOps, Open-Source, Cloud, Python and Django
 
-- 💬 Ask me about **Docker, Python, Django**
+- 💬 Ask me about  Cloud, Python and Open-Source
+  
+- 📫 How to reach me: <a href="https://linkedin.com/in/niranjan- darshan-410552186/" target="blank">LinkedIn</a>
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact Coding Bugs were NOT named after an actual bug.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan- darshan-410552186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan- darshan-410552186/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niranjan-darshan-410552186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan- darshan-410552186/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17489326/niranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17489326/niranjan" height="30" width="40" /></a>
 </p>
 
